@@ -1,6 +1,6 @@
 
 # Buttercup 
-![Logo](https://static.wikia.nocookie.net/ppg-the-powerpuff-girls-fanon/images/2/2b/Buttercup_PPG_%281%29.png/)
+
 
 Buttercup web sitelerindeki gizli dizinleri deneme yanılma yoluyla bulmanızı sağlar 
 
